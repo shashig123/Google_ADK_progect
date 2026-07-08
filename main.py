@@ -1,3 +1,5 @@
-from google.adk.cli import run
+# from google.adk.cli import run
 
-run()
+# run()
+
+from weather_agent.agent import root_agent
